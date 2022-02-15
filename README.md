@@ -4,7 +4,7 @@
 
 </br>
 
-O projeto foi desenvolvido usando _functions components_, o novo recurso do ReactJS implementado a partir da versão 16.8. E para permitir o uso do recurso _state_ do ReactJS em _functions componetes_ foi ulizado o*Hook useState*.</br>
+O projeto foi desenvolvido usando _functions components_, o novo recurso do ReactJS implementado a partir da versão 16.8. E para permitir o uso do recurso de estado do ReactJS em _functions componetes_ foi ulizado o Hook *useState*.</br>
 Para o layout do formulário foram importadas as bilbiotecas _TextField_, _Button_, _Switch_ e _FormControlLabel_ do Material UI.</br></br>
 
 ## Tecnologias Aplicadas no Projeto:
